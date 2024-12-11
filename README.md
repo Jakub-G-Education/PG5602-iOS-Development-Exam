@@ -8,7 +8,7 @@ This repository contains the project for the PG5602 iOS Development Exam. It dem
 
 <hr>
 
-### Project is using <b>Newsapi.org</b>
+### Project is using <b>Newsapi.org</b> api.
 
 
 ### ScreenShots
