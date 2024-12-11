@@ -1,6 +1,6 @@
 # PG5602, iOS-Development-Exam
 
-[📜 Exam Assignment 📜](Eksamen PG5602 H2024.pdf)
+[📜 Exam Assignment 📜](Eksamen-PG5602-H2024.pdf)
 
 <hr>
 
